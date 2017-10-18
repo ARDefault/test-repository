@@ -1,2 +1,2 @@
 # test-repository
-AT for ArProd
+AutoTest for ArProd
